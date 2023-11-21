@@ -1,4 +1,4 @@
-import Link from 'next/Link';
+import Link from 'next/link';
 import { getReviews } from '@/lib/reviews';
 import Heading from '@/components/Heading';
 
